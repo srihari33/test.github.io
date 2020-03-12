@@ -100,7 +100,7 @@ var template3 = `
     </div>
     <div class="form-group">
       <label for="pwd">Last Name:</label>
-      <input type="password" class="form-control" id="pwd" placeholder="name">
+      <input type="text" class="form-control" id="pwd" placeholder="name">
     </div>
     <div class="checkbox">
       <label><input type="checkbox"> Remember me</label>
@@ -170,7 +170,7 @@ Template 4
 
 <form class="form-inline" action="/action_page.php">
   <label for="email">First Name:</label>
-  <input type="email" id="text" placeholder="first name" name="">
+  <input type="text" id="text" placeholder="first name" name="">
   <label for="pwd">Last Name:</label>
   <input type="text" id="pwd" placeholder="last name" name="">
   <label>
